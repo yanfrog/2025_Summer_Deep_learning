@@ -12,6 +12,30 @@
 - 請勿寄送檔案給助教，僅上傳至新 E3
 - 除非特別要求，請勿上傳 model weights 或 dataset
 
+### 暑期《深度學習》課程時程表
+
+| 週次 | 日期       | 下午課程主題                                   | 晚上課程與 Lab                         |檢查     |
+|------|------------|------------------------------------------------|----------------------------------------|-----|
+| 第1週 | 7/1 (二)   | 課程介紹、機器學習基礎                         | Warm-up (Lab 0)                         |ok|
+| 第1週 | 7/3 (四)   | Deep Feedforward Networks                      | Back-Propagation (Lab 1)                ||
+| 第2週 | 7/8 (二)   | Convolutional Networks                         | ConvNets & Transformers (Lab 2)         ||
+| 第2週 | 7/10 (四)  | Reinforcement Learning 簡介                    | 無課                                     ||
+| 第3週 | 7/15 (二)  | Recurrent and Recursive Nets                  | MaskGIT (Lab 3)                         ||
+| 第3週 | 7/17 (四)  | Linear Factor Models、Autoencoders            | 無課                                     ||
+| 第4週 | 7/22 (二)  | Generative Adversarial Networks               | CVAE (Lab 4)                            ||
+| 第4週 | 7/24 (四)  | Valued-Based Reinforcement Learning           | 無課                                     ||
+| 第5週 | 7/29 (二)  | Policy-Based Reinforcement Learning           | Discrete Control (Lab 5)               ||
+| 第5週 | 7/31 (四)  | Diffusion Models                              | 無課                                     ||
+| 第6週 | 8/5 (二)   | Normalizing Flows                             | Diffusion (Lab 6)                      ||
+| 第6週 | 8/7 (四)   | Final Project Proposal                         | Final Project Proposal                  ||
+| 第7週 | 8/12 (二)  | Model-Based Reinforcement Learning            | Continuous Control (Lab 7)             ||
+| 第7週 | 8/14 (四)  | 無課                                           | 無課                                    ||
+| 第8週 | 8/19 (二)  | Paper Presentation                             | Paper Presentation                      ||
+| 第8週 | 8/21 (四)  | Paper Presentation                             | Paper Presentation                      ||
+| 第9週 | 8/26 (二)  | Final Exam                                     | 無課                                     ||
+| 第9週 | 8/28 (四)  | Final Project Demo                             | 無課                                     ||
+
+
 ---
 
 ## LAB 課程安排
